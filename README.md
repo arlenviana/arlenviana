@@ -1,7 +1,5 @@
 # 👨‍💻 Arlen Viana | Estudante de Análise e Desenvolvimento de Sistemas
-<div align="center">
-  <img src="./banner-github.png" width="100%" alt="Banner de Arlen Viana">
-</div>
+![Banner do perfil](./banner-github.png.png)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Aprendendo+Backend+e+Frontend;Explorando+Bancos+de+Dados;Estudando+Agentes+de+Inteligencia+Artificial" alt="Apresentação animada" />
 </p>
