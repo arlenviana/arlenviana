@@ -1,5 +1,4 @@
 # 👨‍💻 Arlen Viana | Estudante de Análise e Desenvolvimento de Sistemas
-![Banner do perfil](./banner-github.png.png)
 <div align="center">
   <img src="./banner-github.png" width="100%" alt="Banner de Arlen Viana">
 </div>
